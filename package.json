@@ -1,0 +1,11 @@
+{
+    "name": "repo-stats",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "run": "node index.js"
+    },
+    "author": "rendfall",
+    "license": "none",
+    "main": "./index.js"
+}
