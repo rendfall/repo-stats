@@ -103,7 +103,7 @@ fetch(pkgURL, (res) => {
             name: ghData.name,
             stargazers_count: ghData.stargazers_count,
             updated_at: ghData.updated_at,
-            watchers_count: ghData.watchers_count,
+            subscribers_count: ghData.subscribers_count,
             forks_count: ghData.forks_count,
             open_issues_count: ghData.open_issues_count
         };
